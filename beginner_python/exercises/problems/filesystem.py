@@ -1,6 +1,3 @@
-# use dataclass
-# use abstract method
-
 # Part 1)
 # create an abstract DiskObject class
 # that has:
